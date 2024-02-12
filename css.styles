@@ -8,6 +8,18 @@
 }
 /*---------------------------------------------------list*/
 
+
+
+/*---------------------------------------------------full infomation list*/
+.ul-styles{
+  list-style-type: none;
+  padding: 5px;
+}
+
+.full-info-row {
+  border-radius: 12px;
+}
+
 /*---------------------------------------------------images after list*/
 .img-mid{
   width: 70%;
