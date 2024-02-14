@@ -47,6 +47,6 @@ footer {
   mix-blend-mode: normal;
 }
 .rbb-logo:hover{
-  background-color: yellow;
+  background-color: Green;
   border-radius: 12px;
 }
