@@ -27,3 +27,11 @@
   margin-right: 5px;
   border-radius: 50px;
 }
+/*---------------------------------------------------footer*/
+footer {
+  background-color: #f5ce42;
+}
+.rbb-logo{
+  width: 40%;
+  mix-blend-mode: normal;
+}
