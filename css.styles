@@ -40,10 +40,10 @@
 }
 /*---------------------------------------------------footer*/
 footer {
-  background-color: #f5ce42;
+  background-color: white;
 }
 .rbb-logo{
-  width: 40%;
+  height: 40%;
   mix-blend-mode: normal;
 }
 .rbb-logo:hover{
