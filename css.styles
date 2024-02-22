@@ -1,13 +1,17 @@
 /*---------------------------------------------------*/
 *{
-  font-family: "Open Sans", Sans-Serif;
+  font-family: "Verdana", Sans-Serif;
 }
 .margin-auto {
   margin: auto !important;
 }
 /*---------------------------------------------------Back ground colours*/
-.full-bg{
-  background-color: #f5ce42;
+.full-bg {
+  background-color: #fafafa;
+}
+.logo-bg {
+  background-color: #036194 ;
+  padding: 5px;
 }
 /*---------------------------------------------------list*/
 .width-keypoints {
@@ -16,6 +20,11 @@
 
 
 /*---------------------------------------------------full infomation list*/
+.first-heading {
+  padding: 5px;
+  font-weight: bold;
+  text-decoration: underline;
+}
 .ul-styles{
   list-style-type: none;
   padding: 5px;
@@ -26,7 +35,7 @@
 }
 
 .bg-full-info {
-  background-color: black !important;
+  background-color:#036194 !important;
   border-radius: 12px;
   margin: 10px auto !important;
 }
@@ -38,9 +47,13 @@
   margin-right: 5px;
   border-radius: 50px;
 }
+.col-img-height {
+  min-height: 40%;
+  max-height: 80%;
+}
 /*---------------------------------------------------footer*/
 footer {
-  background-color: #f5ce42;
+  background-color: #036194;
 }
 .rbb-logo{
   width: 40%;
