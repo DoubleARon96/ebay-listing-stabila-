@@ -56,10 +56,12 @@ footer {
   background-color: #036194;
 }
 .rbb-logo{
-  width: 40%;
+  height: 40%;
   mix-blend-mode: normal;
+  border-radius: 12px;
 }
 .rbb-logo:hover{
   background-color: yellow;
-  border-radius: 12px;
+  border-radius: 50px;
+  border: 2px solid black;
 }
